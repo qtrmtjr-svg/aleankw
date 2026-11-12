@@ -1,0 +1,1 @@
+var e=`/assets/al-ain-farms-logo-wox83R-e.png`;export{e as t};
