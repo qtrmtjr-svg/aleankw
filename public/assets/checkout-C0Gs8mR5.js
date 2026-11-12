@@ -1,0 +1,1 @@
+var e=`alain-contact`,t={name:``,phone:``,email:``,city:``,area:``,address:``,notes:``};function n(){try{let n=localStorage.getItem(e);return n?{...t,...JSON.parse(n)}:null}catch{return null}}var r=`alain-paymode`;export{n as i,r as n,t as r,e as t};
