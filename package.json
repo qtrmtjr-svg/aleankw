@@ -1,0 +1,13 @@
+{
+  "name": "aleankw",
+  "version": "1.0.0",
+  "description": "مزارع العين — دجاج طازج وحليب بأسعار مخفضة",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
